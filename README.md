@@ -2,8 +2,8 @@
 Rifa para ayudar a Kari 
 Fecha: 2 de Diciembre de 2019
 
-1.
-2.
+1. Comprado
+2. Comprado
 3.
 4.
 5.
